@@ -1,0 +1,2 @@
+# Golu-License
+Golu License
